@@ -14,10 +14,8 @@ public class Main {
             System.out.println("3. Hiển thị danh sách cán bộ");
             System.out.println("4. Thoát");
             System.out.print("Chọn chức năng: ");
-
             int choice = scanner.nextInt();
             scanner.nextLine();
-
             switch (choice) {
                 case 1:
                     System.out.println("Chọn loại cán bộ (1. Công nhân, 2. Kỹ sư, 3. Nhân viên): ");
