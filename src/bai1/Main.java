@@ -16,7 +16,7 @@ public class Main {
             System.out.print("Chọn chức năng: ");
 
             int choice = scanner.nextInt();
-            scanner.nextLine(); // Xử lý dòng trống
+            scanner.nextLine();
 
             switch (choice) {
                 case 1:
