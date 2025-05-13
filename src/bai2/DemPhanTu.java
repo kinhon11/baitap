@@ -1,10 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace src.bai2
-{
+import java.util.*;
 
 public class DemPhanTu {
     public static void main(String[] args) {
@@ -40,5 +34,3 @@ public class DemPhanTu {
         scanner.close();
     }
 }
-}
-
